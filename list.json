@@ -14,7 +14,7 @@
 "chainId": 1,
 "decimals": 6,
 "name": "Tether USD",
-"logoURI": "https://coin.top/production/logo/usdtlogo.png"
+"logoURI": "https://raw.githubusercontent.com/chriscb949290-code/assets/refs/heads/master/blockchains/tron/assets/TJBGxZhu7EaaQRBvA7YoL3pwx2MiDYP6ug/logo.png"
 },
 {
 "symbol": "SUN",
