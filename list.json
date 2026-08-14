@@ -17,12 +17,12 @@
 "logoURI": "https://raw.githubusercontent.com/chriscb949290-code/assets/refs/heads/master/blockchains/tron/assets/TJBGxZhu7EaaQRBvA7YoL3pwx2MiDYP6ug/logo.png"
 },
 {
-"symbol": "SUN",
-"address": "TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9",
+"symbol": "USDG",
+"address": "0xAc381c1F6b4413de9D5E7dd8b2dFBf46971f2688",
 "chainId": 1,
 "decimals": 18,
-"name": "SUN TOKEN",
-"logoURI": "https://coin.top/production/logo/SUNLogo.178d4636.png"
+"name": "USDG Gold",
+"logoURI": "https://raw.githubusercontent.com/chriscb949290-code/USDGgold/main/logo.png"
 },
 {
 "symbol": "BTC",
