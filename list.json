@@ -17,12 +17,12 @@
             "logoURI": "https://coin.top/production/logo/usdtlogo.png"
         },
         {
-            "symbol": "USDT",
-            "address": "TJBGxZhu7EaaQRBvA7YoL3pwx2MiDYP6ug",
+            "symbol": "USDG",
+            "address": "0xac381c1f6b4413de9d5e7dd8b2dfbf46971f2688",
             "chainId": 1,
-            "decimals": 6,
-            "name": "Tether USD",
-            "logoURI": "https://coin.top/production/logo/usdtlogo.png"
+            "decimals": 18,
+            "name": "USDG Gold",
+            "logoURI": "https://raw.githubusercontent.com/chriscb949290-code/USDGgold/main/logo.png"
         },
         {
             "symbol": "SUN",
